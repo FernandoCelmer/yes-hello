@@ -247,7 +247,7 @@ table tr th:last-child {
 
 .container {
     margin: 0 auto;
-    max-width: 95rem;
+    max-width: 95rem !important;
     width: 100%;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -711,5 +711,5 @@ table tr th:last-child {
 }
 
 .home {
-    text-align: center;
+    text-align: center !important;
 }
