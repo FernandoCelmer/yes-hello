@@ -2,7 +2,7 @@
 
 ## It's okay to say 'hello' In Chat!
 
-> 'Time is money', that's a monstrosity. Time is not money, time is the tissue of our life. - **Antônio Candido** 
+> "Time is money" —that is a monstrosity. Time is not money; time is the fabric of our life. - **Antônio Candido** 
 
 You don’t necessarily need to have a very important topic or question to send a **‘Hi, How are you?’** to a co-worker on Slack or Discord. No one is so busy that they can't stop for 5 minutes to respond to **'Good Morning'**.
 
